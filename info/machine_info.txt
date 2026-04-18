@@ -1,0 +1,5 @@
+Machine Name: BLACK_OUT
+Difficulty: Medium
+OS: Ubuntu
+Author: Muzammil T K
+IP Address: 192.168.56.50
