@@ -71,4 +71,4 @@ Muzammil T K
 
 ---
 
-If you enjoyed this machine, consider starring the repo!
+If you enjoyed this machine, consider starring the repo!**.
