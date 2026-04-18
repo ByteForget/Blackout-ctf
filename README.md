@@ -61,8 +61,9 @@ Web Exploitation → SSH Access → Cron Abuse → Root
 
 ##  Disclaimer
 
-This machine is created for **educational purposes only**.  
+This machine is created for educational purposes only.
 Do not use these techniques on systems without proper authorization.
+
 ---
 
 ## Author
@@ -71,4 +72,4 @@ Muzammil T K
 
 ---
 
-If you enjoyed this machine, consider starring the repo!**.
+If you enjoyed this machine, consider starring the repo!
